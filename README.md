@@ -13,4 +13,4 @@
 ### [Link2](https://stackoverflow.com/questions/71449710/parent-child-relation-data-scraping-with-selenium-beautifulsoup)
 
 ## PR:
-### [PR-Link]()
+### [PR-Link](https://github.com/tareqzoubii/web-scraper/pull/2)
